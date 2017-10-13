@@ -51,6 +51,5 @@ public class DLLVisualizer
         bridge.setDataStructure(head);
         bridge.setTitle("A Doubly-Linked List");
         bridge.visualize();
-
     }
 }
